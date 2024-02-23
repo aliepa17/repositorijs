@@ -1,1 +1,2 @@
 # repositorijs
+;sis nav vienkārši
